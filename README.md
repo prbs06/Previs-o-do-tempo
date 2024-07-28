@@ -18,6 +18,3 @@ Para clonar e executar este aplicativo, você precisará do Git.
 
 # Clone this repository
 $ git clone [https://github.com/prbs06/Previs-o-do-tempo.git]
-
-# Go into the repository
-$ cd ask-me-something-interface
